@@ -24,7 +24,7 @@ To run Frontend
 🟢 1. cd contacts
 🟢 3. npm start
 
-Then application will start 
+Then application will start if not """please reload""" the page
 
 
 
