@@ -1,33 +1,21 @@
-## Setup Environment Variables
-
-Create a `.env` file in the `backend` directory and add the following:
-
-```plaintext
-🟦 PORT=5000
-🟩 MONGO_URI="mongodb+srv://balasaiterli:pspk@namastenode.ce6no.mongodb.net/"
-🟧 JWT_SECRET=Contacts/Management
 
 
 ### Steps to Run the Project
 
-
 To run Backend
 
 🔵 1. cd Backend
+**npm install** """for node_modules"""
 🔵 2. node server.js
 
-
-
 To run Frontend
-
-
 🟢 1. cd contacts
+**npm install**  """for node_modules"""
 🟢 3. npm start
 
 Then application will start
+**If the application is not working, please reload the page while logging in or signing up.**
 
-
-""""""""if application not working please reload the page while login or signup"""""""
 
 
 
