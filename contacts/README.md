@@ -20,8 +20,8 @@ To run Backend
 
 To run Frontend
 
-🟢 1. cd Frontend
-🟢 2. cd contacts
+
+🟢 1. cd contacts
 🟢 3. npm start
 
 Then application will start 
